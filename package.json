@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/uta630/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
-  }
+  },
+  "dependencies": {}
 }
