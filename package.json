@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/uta630/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/uta630/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/uta630/typescript-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
