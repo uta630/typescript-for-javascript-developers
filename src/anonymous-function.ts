@@ -15,7 +15,7 @@ let bmi1 = function (height: number, weight: number) {
 let bmi2: (height: number, weight: number) => number = function (
   height: number,
   weight: number
-) {
+): number {
   return weight / (height * height);
 };
 
